@@ -8,3 +8,4 @@
 ndum2009/ndum2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Some times things are nit going the you wanted and you should keeep on fighting for success
